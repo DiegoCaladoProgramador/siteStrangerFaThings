@@ -90,6 +90,13 @@ section p{
     justify-content: space-between;
 }
 
+form input, textarea, button{
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
 form textarea {
     resize: none;
     height: 180px;
